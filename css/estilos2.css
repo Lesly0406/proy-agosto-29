@@ -1,0 +1,39 @@
+*{margin: 0px;}
+.n1
+{
+    background-color: black;
+    padding: 20px;
+    width: 100%;
+}
+.n2, .a1
+{
+    background-color: yellow;
+    padding: 20px;
+    margin: 20px;
+}
+.n3, .a2, .b1
+{
+    background-color: blue;
+    padding: 20px;
+    margin: 20px;
+}
+.n4,.a3, .b2
+{
+    background-color: green;
+    padding: 20px;
+}
+.n5, .a4, .b3
+{
+    background-color: red;
+    padding: 20px;
+}
+.n6, .a5, .b4
+{
+    background-color: orange;
+    padding: 20px;
+}
+.n7, .a6, .b5
+{
+    background-color: violet;
+    padding: 20px;
+}
